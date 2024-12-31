@@ -13,7 +13,7 @@ WIDGET = {
     "height": 270,
     "background": "1",
     "dataColor": "FFFFFF",
-    "key": "这里是和风天气的key"
+    "key": "eaa34e4bf86340b6b558d802c61430c9"
   }
 }
 </script>
